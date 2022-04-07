@@ -1,0 +1,16 @@
+{
+  "name": "Slot-Online-Surga55",
+  "main": "./lib/Slot-Online-Surga55",
+  "version": "3.2.1",
+  "description": "Slot-Online-Surga55 are played as you code... So amazing !",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "Slot-Online-Surga55:toggle"
+  },
+  "repository": "https://github.com/vriansutaryadi/Slot-Online-Surga55",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
